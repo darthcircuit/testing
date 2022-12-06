@@ -5,3 +5,4 @@
 3. Shawn is cool
 4. Jake is kinda ok
 5. John is here
+6. Bob Vila has a cool TV Show
