@@ -1,6 +1,6 @@
 # Write me a python module that will generate a helm chart for a docker container.
 
-Here is a sample Python module that you can use to generate a Helm chart for a Docker container:
+**Here is a sample Python module that you can use to generate a Helm chart for a Docker container:**
 
 ```
 import yaml
